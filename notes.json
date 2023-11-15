@@ -1,0 +1,138 @@
+"users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "about": "Alice is a fermentation aficionado who has been experimenting with fermented foods and beverages for over a decade. Her journey began with a simple jar of sauerkraut and has expanded to include everything from kombucha to sourdough. A self-taught expert, Alice combines traditional techniques with modern twists, aiming to make fermentation accessible and enjoyable for everyone. When she's not tinkering with fermentation, Alice enjoys hiking through local trails and tending to her home garden, always in search of new inspirations for her next fermented creation.",
+      "email": "alice@email.com",
+      "imgUrl": "https://example.com/alice.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 2,
+      "name": "Ren Nishimoto",
+      "about": "Ren is a Chi Gong practitioner and tea enthusiast who loves to share the art of mindful movement and the traditions of Japanese tea blending. With over 15 years of experience in Chi Gong, Bob believes in the power of energy flow and balance as pathways to holistic well-being. His approach to teaching is rooted in making these ancient practices approachable for modern lifestyles. Alongside Chi Gong, Bob has a deep passion for Japanese tea blending. He has studied the craft extensively, visiting tea farms in Japan and learning from master blenders. Ren enjoys blending unique tea varieties that are not only flavorful but also steeped in cultural significance. Whether it's guiding you through a Chi Gong sequence or sharing the subtleties of Japanese tea, Ren is dedicated to enriching your life through these timeless practices.",
+      "email": "ren@email.com",
+      "imgUrl": "https://example.com/bob.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 3,
+      "name": "Kevin Quail",
+      "about": "Kevin is a backyard poultry enthusiast who has been raising chickens for over five years. From building coops to organic feeding and healthcare, Kevin has a wealth of knowledge to share. His classes are hands-on and filled with practical tips that you can easily implement in your own backyard. When he's not tending to his flock, he enjoys hiking and woodworking.",
+      "email": "kevin@email.com",
+      "imgUrl": "",
+      "userType": "Teacher"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "about": "David is a dedicated fly fisher with over a decade of experience casting lines into some of the most scenic rivers and streams. For David, fly fishing is more than just a hobby; it's a form of moving meditation that connects him with the natural world. Though he is mostly self-taught, he has honed his skills through countless hours of practice and by learning from a community of like-minded enthusiasts. While he doesn't hold any formal certifications, David's hands-on experience has made him a knowledgeable guide in the fly fishing world. His classes aim to share the techniques, best practices, and pure joy that come with this unique form of fishing. Whether you're a complete beginner or looking to refine your skills, David's approachable teaching style will help you become a more confident and mindful angler.",
+      "email": "david@email.com",
+      "imgUrl": "https://example.com/david.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "about": "Emily is a passionate herbalist who believes in the healing powers of plants. With a love for nature that began in childhood, she has spent years studying the properties and uses of herbs. She has gained her expertise through both structured study and hands-on experience in the field. Although she doesn't have a formal degree in herbalism, she's always been a lifelong learner, frequently attending workshops and reading up on the latest research. Emily loves taking walks in natural settings to identify local plants and explore their uses, which inspired her to start her own herb walk classes. Her walks are educational journeys where she shares her deep knowledge of plant identification, as well as their medicinal and culinary applications. Her goal is to empower you with the knowledge to harness the natural world around you for health and well-being.",
+      "email": "emily@email.com",
+      "imgUrl": "https://example.com/emily.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 6,
+      "name": "Keith Lowe",
+      "about": "Keith is a self-taught survivalist who has dedicated years to mastering the essential skills needed to thrive in the wilderness. From an early age, he's been fascinated by the great outdoors, always yearning for the next adventure. Whether it's a weekend camping trip or a month-long trek in the backcountry, Keith is prepared for any situation. Although he doesn't have a formal degree, his skills are honed through real-world experience, countless books, and specialized courses. His intro class is designed to equip beginners with the fundamental knowledge and techniques required for survival—ranging from fire-building and foraging to navigation and emergency first aid. Keith's goal is to instill a sense of confidence and preparedness in his students, allowing them to fully enjoy and safely explore the natural world around them.",
+      "email": "keith@email.com",
+      "imgUrl": "https://example.com/frank.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 7,
+      "name": "Grace Green",
+      "about": "Grace is a passionate artisan specializing in the art of candle and incense making. Her craftsmanship has been honed through years of experimentation, practice, and self-learning. Enamored with the transformative power of scents to create atmosphere and improve well-being, Grace is eager to share her expertise in her workshops. She began her journey in candle and incense making as a hobby and understands the unique challenges that beginners might face. Her workshops are designed to be both informative and hands-on, focusing not only on the basics but also on the finer nuances of scent blending and sustainable materials. Grace aims to provide a creative and relaxing environment where students can explore their own olfactory preferences while mastering this ancient craft.",
+      "email": "grace@email.com",
+      "imgUrl": "https://example.com/grace.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 8,
+      "name": "Henry Wilson",
+      "about": "Henry is a dedicated urban farmer with a passion for sustainable living and community resilience. Inspired by the need to make food systems more localized and accessible, he has taken to the practice of guerrilla farming and urban gardening. Henry believes that even in the most constrained spaces, there's potential for growth, both literal and metaphorical. His workshops focus on practical techniques to maximize yield in small areas, employing unconventional but effective methods. A natural problem solver, Henry loves the challenge of adapting traditional farming techniques to suit urban environments. Through his classes, he hopes to empower individuals with the knowledge and skills to grow their own food, improve local ecosystems, and foster community ties.",
+      "email": "henry@email.com",
+      "imgUrl": "https://example.com/henry.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 9,
+      "name": "Isabella Anderson",
+      "about": "Isabella is an enthusiastic beekeeper with a deep love for both nature and education. She started her journey into the world of bees out of curiosity and quickly found it to be a passion that she wanted to share with others. Isabella is enchanted by the intricate social structures and environmental benefits that bees provide, and she is excited to impart that wonder to her students. Through her Intro to Beekeeping workshop, she aims to demystify the practice, showing how feasible and rewarding it is to keep bees, even for beginners. Isabella’s goal is to not just teach the technical aspects of beekeeping but also to foster a sense of stewardship for these amazing pollinators. Her classes are full of hands-on experience, fascinating bee facts, and practical tips for starting your own hive.",
+      "email": "isabella@email.com",
+      "imgUrl": "https://example.com/isabella.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 10,
+      "name": "James Clark",
+      "about": "James is a naturalist at heart with a keen eye for tree and plant identification. He's spent countless hours exploring forests, meadows, and even city parks to deepen his knowledge of native flora. Over the years, James has not only amassed a wealth of knowledge but also developed a teaching style that makes plant identification accessible and enjoyable for everyone. He combines both scientific facts and local folklore in his classes to provide a holistic understanding of plant life. His Tree & Plant Identification workshop aims to equip participants with the skills to identify common trees and plants and appreciate the vital roles they play in ecosystems. Whether you're an outdoor enthusiast or someone who simply wants to know more about your natural surroundings, James’s class is designed to inspire and educate.",
+      "email": "james@email.com",
+      "imgUrl": "https://example.com/james.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 11,
+      "name": "Sylvia T",
+      "about": "Sylvia is a fermentation enthusiast with a twist—she's also a stand-up comedian who knows her way around emojis better than anyone else 🙌. Sylvia believes that learning should be as enjoyable as it is enriching, which is why she infuses her Fermentation 101 workshop with humor and easy-to-grasp explanations. Whether she's demonstrating the steps to make sauerkraut or sharing a hilarious fermentation faux pas, you can count on Sylvia to make the learning experience one-of-a-kind. But don't be fooled by her light-hearted approach; she's deeply knowledgeable about the art and science of fermentation. Her classes aren't just entertaining; they're packed with tips, techniques, and fun facts that make the world of fermentation accessible to everyone. So if you're looking to delve into fermentation while having a good laugh, Sylvia's your go-to teacher 🥳.",
+      "email": "sylvia@email.com",
+      "imgUrl": "https://example.com/sylvia.jpg",
+      "userType": "Teacher"
+    },
+    {
+      "id": 12,
+      "name": "Martin Kim",
+      "about": "Meet Martin, your guide to the fascinating world of fish identification. With years of recreational fishing and a knack for aquatic ecology, Martin has an almost encyclopedic knowledge of local fish species. From the unique characteristics that distinguish one species from another to the seasonal patterns affecting their habitats, Martin has a deep understanding of the subject matter. His Fish Identification class is an engaging mix of hands-on fieldwork and insightful discussions. Whether you're an aspiring angler or an environmental enthusiast, Martin’s course is designed to equip you with the practical skills and knowledge you need to identify fish like a pro. His genuine passion for the aquatic world is contagious, making every session a memorable experience.",
+      "email": "martin@email.com",
+      "imgUrl": "https://example.com/martin.jpg",
+      "userType": "Teacher"
+    }, 
+    {
+        "id": 13,
+        "name": "Nancy Williams",
+        "about": "Nancy Williams is a holistic practitioner who specializes in Reiki healing. With a lifelong fascination for energy work and alternative therapies, Nancy has dedicated years to mastering the art and science of Reiki. She believes that the path to wellness starts with understanding and balancing the body's energy fields, and she's committed to helping her clients achieve a state of holistic well-being. When she's not conducting Reiki sessions, Nancy enjoys reading about ancient healing techniques and exploring nature to recharge her own energies.",
+        "email": "nancy@email.com",
+        "imgUrl": "https://example.com/nancy.jpg",
+        "userType": "Teacher"
+      },
+      {
+        "id": 14,
+        "name": "Oscar Peterson",
+        "about": "Oscar Thompson is a passionate enthusiast of Gong Fu tea, a traditional Chinese tea ceremony. Captivated by the intricate dance of aroma, taste, and culture embodied in the ritual, Oscar has spent years diving into the nuances of this ancient practice. He finds immense joy in the mindfulness and serenity that Gong Fu tea brings, transforming every sip into a journey of the senses. Eager to share this transformative experience, Oscar teaches Gong Fu tea classes where he guides participants through the delicate steps of brewing, pouring, and savoring, all with a focus on mindfulness and appreciation. When not immersed in the world of tea, Oscar enjoys practicing tai chi and exploring local farmers' markets to find the perfect tea leaves.",
+        "email": "oscar@email.com",
+        "imgUrl": "https://example.com/oscar.jpg",
+        "userType": "Teacher"
+      },
+      {
+        "id": 15,
+        "name": "Julia Green",
+        "about": "Julia Williams is a dedicated aquaponics enthusiast who has turned her passion for sustainable agriculture into a transformative educational experience. Fascinated by the symbiotic relationship between fish and plants, Julia has spent years fine-tuning her own aquaponics system to create a balanced, eco-friendly garden. Her love for both aquaculture and hydroponics has led her to create classes that break down complex ideas into simple, easy-to-understand steps. She aims to make aquaponics accessible for everyone, teaching participants how to set up their own small-scale systems at home. In her downtime, Julia loves to read up on sustainability practices and enjoys experimenting with new plant-fish combinations in her ever-evolving aquaponic garden.",
+        "email": "julia@email.com",
+        "imgUrl": "https://example.com/julia.jpg",
+        "userType": "Teacher"
+      },
+      {
+        "id": 16,
+        "name": "Doug Adams",
+        "about": "Doug Thompson has been an avid coffee enthusiast for as long as he can remember. It all started with his first sip of quality, artisan coffee on a trip to Colombia, and since then, he's been hooked. Over the years, Doug has mastered the art of brewing the perfect cup, experimenting with various methods like French Press, Aeropress, and Chemex. Passionate about sharing his coffee wisdom, Doug now teaches interactive coffee brewing classes where he guides you through the nuances of grind size, water temperature, and timing. He's all about helping you discover your personal coffee taste and, most importantly, turning the act of coffee brewing into a joyful, meditative experience. In his free time, Doug loves to explore new coffee shops and roasters, always on the quest to find his next favorite bean.",
+        "email": "quincy@email.com",
+        "imgUrl": "https://example.com/quincy.jpg",
+        "userType": "Teacher"
+      },
+      {
+        "id": 17,
+        "name": "Rachel Lee",
+        "about": "Rachel Green fell in love with the art of pasta making during a transformative trip to Italy. Captivated by the way each Italian nonna (grandmother) had her own secret to perfect pasta, she decided to delve into this centuries-old craft. After taking numerous courses and spending countless hours perfecting her skills, Rachel has developed her own series of signature pasta dishes, ranging from the classic fettuccine Alfredo to more experimental stuffed pastas. Now, she’s eager to share her knowledge and passion with others through her pasta making classes. Rachel aims to demystify the process and make pasta making accessible for everyone, showing that great pasta doesn't require fancy equipment or ingredients, just a love for good food. When she's not kneading dough or mixing sauces, you'll find Rachel exploring local food markets or experimenting with new recipes in her kitchen.",
+        "email": "rachel@email.com",
+        "imgUrl": "https://example.com/rachel.jpg",
+        "userType": "Teacher"
+      }
+      
